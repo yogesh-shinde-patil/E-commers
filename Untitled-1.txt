@@ -1,0 +1,6 @@
+git add  .
+git commit  -m "initial commit"
+
+git cofig  --global.name  "yogesh"
+
+git config --global.email  "shindeyogesh072080@gmail.com"
